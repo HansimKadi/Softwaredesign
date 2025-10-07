@@ -1,0 +1,14 @@
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/obj/Debug/net9.0/part_c.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/obj/Debug/net9.0/part_c.AssemblyInfoInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/obj/Debug/net9.0/part_c.AssemblyInfo.cs
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/obj/Debug/net9.0/part_c.csproj.CoreCompileInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/bin/Debug/net9.0/part_c
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/bin/Debug/net9.0/part_c.deps.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/bin/Debug/net9.0/part_c.runtimeconfig.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/bin/Debug/net9.0/part_c.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/bin/Debug/net9.0/part_c.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/obj/Debug/net9.0/part_c.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/obj/Debug/net9.0/refint/part_c.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/obj/Debug/net9.0/part_c.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/obj/Debug/net9.0/part_c.genruntimeconfig.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/part_c/obj/Debug/net9.0/ref/part_c.dll

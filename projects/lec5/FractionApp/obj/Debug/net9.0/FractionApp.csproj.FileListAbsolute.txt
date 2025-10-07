@@ -1,0 +1,14 @@
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/bin/Debug/net9.0/FractionApp
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/bin/Debug/net9.0/FractionApp.deps.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/bin/Debug/net9.0/FractionApp.runtimeconfig.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/bin/Debug/net9.0/FractionApp.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/bin/Debug/net9.0/FractionApp.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/obj/Debug/net9.0/FractionApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/obj/Debug/net9.0/FractionApp.AssemblyInfoInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/obj/Debug/net9.0/FractionApp.AssemblyInfo.cs
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/obj/Debug/net9.0/FractionApp.csproj.CoreCompileInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/obj/Debug/net9.0/FractionApp.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/obj/Debug/net9.0/refint/FractionApp.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/obj/Debug/net9.0/FractionApp.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/obj/Debug/net9.0/FractionApp.genruntimeconfig.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec5/FractionApp/obj/Debug/net9.0/ref/FractionApp.dll

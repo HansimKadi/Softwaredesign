@@ -1,0 +1,14 @@
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/bin/Debug/net9.0/code
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/bin/Debug/net9.0/code.deps.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/bin/Debug/net9.0/code.runtimeconfig.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/bin/Debug/net9.0/code.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/bin/Debug/net9.0/code.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/obj/Debug/net9.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/obj/Debug/net9.0/code.AssemblyInfoInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/obj/Debug/net9.0/code.AssemblyInfo.cs
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/obj/Debug/net9.0/code.csproj.CoreCompileInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/obj/Debug/net9.0/code.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/obj/Debug/net9.0/refint/code.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/obj/Debug/net9.0/code.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/obj/Debug/net9.0/code.genruntimeconfig.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec2/code/obj/Debug/net9.0/ref/code.dll

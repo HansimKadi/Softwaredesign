@@ -1,0 +1,14 @@
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/bin/Debug/net9.0/Lec1App
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/bin/Debug/net9.0/Lec1App.deps.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/bin/Debug/net9.0/Lec1App.runtimeconfig.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/bin/Debug/net9.0/Lec1App.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/bin/Debug/net9.0/Lec1App.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/obj/Debug/net9.0/Lec1App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/obj/Debug/net9.0/Lec1App.AssemblyInfoInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/obj/Debug/net9.0/Lec1App.AssemblyInfo.cs
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/obj/Debug/net9.0/Lec1App.csproj.CoreCompileInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/obj/Debug/net9.0/Lec1App.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/obj/Debug/net9.0/refint/Lec1App.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/obj/Debug/net9.0/Lec1App.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/obj/Debug/net9.0/Lec1App.genruntimeconfig.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/Lec1App/obj/Debug/net9.0/ref/Lec1App.dll
