@@ -1,0 +1,15 @@
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/bin/Debug/net9.0/ConsoleApp
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/bin/Debug/net9.0/ConsoleApp.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/obj/Debug/net9.0/ConsoleApp.sourcelink.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/obj/Debug/net9.0/ConsoleApp.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/lec6/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll
