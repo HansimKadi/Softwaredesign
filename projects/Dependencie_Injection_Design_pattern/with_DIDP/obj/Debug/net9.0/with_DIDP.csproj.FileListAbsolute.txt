@@ -1,0 +1,15 @@
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/bin/Debug/net9.0/with_DIDP
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/bin/Debug/net9.0/with_DIDP.deps.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/bin/Debug/net9.0/with_DIDP.runtimeconfig.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/bin/Debug/net9.0/with_DIDP.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/bin/Debug/net9.0/with_DIDP.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/obj/Debug/net9.0/with_DIDP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/obj/Debug/net9.0/with_DIDP.AssemblyInfoInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/obj/Debug/net9.0/with_DIDP.AssemblyInfo.cs
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/obj/Debug/net9.0/with_DIDP.csproj.CoreCompileInputs.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/obj/Debug/net9.0/with_DIDP.sourcelink.json
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/obj/Debug/net9.0/with_DIDP.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/obj/Debug/net9.0/refint/with_DIDP.dll
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/obj/Debug/net9.0/with_DIDP.pdb
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/obj/Debug/net9.0/with_DIDP.genruntimeconfig.cache
+/Users/kadi/Documents/H25/Softwaredesign/projects/Dependencie_Injection_Design_pattern/with_DIDP/obj/Debug/net9.0/ref/with_DIDP.dll

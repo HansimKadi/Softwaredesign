@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game.Tests/upper_lower_card_game.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game.Tests/upper_lower_card_game.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game.Tests/upper_lower_card_game.Tests.csproj",
+        "projectName": "upper_lower_card_game.Tests",
+        "projectPath": "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game.Tests/upper_lower_card_game.Tests.csproj",
+        "packagesPath": "/Users/kadi/.nuget/packages/",
+        "outputPath": "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kadi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game/upper_lower_card_game.csproj": {
+                "projectPath": "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game/upper_lower_card_game.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.7.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game/upper_lower_card_game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game/upper_lower_card_game.csproj",
+        "projectName": "upper_lower_card_game",
+        "projectPath": "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game/upper_lower_card_game.csproj",
+        "packagesPath": "/Users/kadi/.nuget/packages/",
+        "outputPath": "/Users/kadi/Documents/H25/Softwaredesign/projects/upper_lower/upper_lower_card_game/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kadi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

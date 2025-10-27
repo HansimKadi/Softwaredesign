@@ -2,19 +2,19 @@
 
 public class Card
 {
-    private suits _Suit;
-    private values _Value;
+    private Suits _Suit;
+    private Values _Value;
 
-    public suits Suit { get { return _Suit; } }
-    public values Value { get { return _Value; } }
+    public Suits Suit { get { return _Suit; } }
+    public Values Value { get { return _Value; } }
 
 
-    public Card(suits suit, values value)
+    public Card(Suits suit = Suits.Hearts, Values value = Values.unassigned)
     {
         _Suit = suit;
         _Value = value;
     }
-    public enum suits
+    public enum Suits
     {
         Hearts,
         Diamonds,
@@ -22,9 +22,9 @@ public class Card
         Clubs
     }
 
-    public enum values
+    public enum Values
     {
-        not_in_use,
+        unassigned,
         Ace,
         Two,
         Theee,
@@ -38,5 +38,10 @@ public class Card
         Jack,
         Queen,
         King
+    }
+
+    public override string ToString()
+    {
+        return $"{_Value} of {_Suit}";
     }
 }

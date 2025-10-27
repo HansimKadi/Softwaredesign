@@ -6,6 +6,10 @@ namespace upper_lower_card_game
     {
         static void Main()
         {
+            Console.Clear();
+            Game game = new Game();
+            game.start();
+
 
         }
     }
